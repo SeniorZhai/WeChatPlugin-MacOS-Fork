@@ -149,15 +149,15 @@
 
 ##### 1.1 无需安装Git
 
-打开`应用程序-实用工具-Terminal(终端)`，执行下面的命令安装 [Oh My WeChat](https://github.com/lmk123/oh-my-wechat)：
+打开`应用程序-实用工具-Terminal(终端)`，执行下面的命令安装 [Oh My WeChat](https://github.com/SeniorZhai/oh-my-wechat)：
 
 ```sh
-curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install.sh | bash -s
+curl -o- -L https://raw.githubusercontent.com/SeniorZhai/oh-my-wechat/master/install.sh | bash -s
 ```
 
 然后运行 `omw` 即可。
 
-> 可以访问 [Oh My WeChat 的项目主页](https://github.com/lmk123/oh-my-wechat#oh-my-wechat)查看更多用法。
+> 可以访问 [Oh My WeChat 的项目主页](https://github.com/SeniorZhai/oh-my-wechat#oh-my-wechat)查看更多用法。
 
 ##### 1.2 需要安装Git
 
